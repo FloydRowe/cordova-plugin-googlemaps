@@ -1,4 +1,4 @@
-# Cordova GoogleMaps plugin for Android, iOS and Browser v2.7.1
+ !Cordova GoogleMaps plugin for Android, iOS and Browser v2.7.1
 
 | Download | Build test (multiple_maps branch)|
 |----------|---------------------------|
@@ -28,7 +28,7 @@
 
 -----
 
-## Guides
+!! Guides
 
   - [How to generate API keys?](https://github.com/mapsplugin/cordova-plugin-googlemaps-doc/blob/master/v2.6.0/api_key/README.md)
   - [Hello, World](https://github.com/mapsplugin/cordova-plugin-googlemaps-doc/blob/master/v2.6.0/hello-world/README.md)
@@ -85,7 +85,7 @@ For browser platform,
 
 ## Install optional variables (config.xml)
 
-  - ![](https://raw.githubusercontent.com/mapsplugin/cordova-plugin-googlemaps/master/images/icon-android.png) **GOOGLE_MAPS_PLAY_SERVICES_VERSION = (16.0.1)**<br>
+  - ![](https://raw.githubusercontent.com/mapsplugin/cordova-plugin-googlemaps/master/images/icon-android.png)  *GOOGLE_MAPS_PLAY_SERVICES_VERSION = (16.0.1)**<br>
     The Google Play Services SDK version.
     _You need to specify the same version number with all other plugins._
     Check out the latest version [here](https://developers.google.com/android/guides/releases).
@@ -431,3 +431,4 @@ This means **you can use the native Google Maps views similar to HTML elements**
 - Gitter : (managed by @Hirbod)
 
   https://gitter.im/nightstomp/cordova-plugin-googlemaps
+ 
